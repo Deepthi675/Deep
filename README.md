@@ -15,7 +15,7 @@ I hold a degree in Computer Science with a focus on data analytics.I am a good l
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
 🌐 Curious about web scraping and API integration. 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [email address](sdeepthib10@gmail.com)
+* ✉️  You can contact me at [sdeepthib10@gmail.com]
 * 🧠  I'm learning R, Pandas
 * 🤝  I'm open to collaborating on Health Economics, Healthcare projects
 
