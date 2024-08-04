@@ -52,10 +52,15 @@ The Health of Nations dashboard consists of multiple visualizations created in T
   - **Technologies Used**: List the features and tables used in the project.
 
 ### MySQL
-- **Project Name**: [SQL Projects](https://sites.google.com/d/1hehV21rM9kjol14yK8s0kjDPwaTZ99yO/p/1eN1pVWMZKfW9aZfAF1yAtKsgQkWw1atL/edit)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and databases used in the project.
-
+- **Project Name**: [SQL_Store Project](https://sites.google.com/d/1hehV21rM9kjol14yK8s0kjDPwaTZ99yO/p/1eN1pVWMZKfW9aZfAF1yAtKsgQkWw1atL/edit)
+  - **Description**:This SQL Project I have designed  Sql_Store database. I have used to importing the script into MySQL and then executed different queries to analyse the tables inside the database and also created EER diagram using Reverse Engineer, we can find the relationships between the tables.
+  - **Technologies Used**: My SQL,Workbench
+    
+  - ### MySQL Project2
+  -  **Project Name**: [World Project](https://sites.google.com/d/1hehV21rM9kjol14yK8s0kjDPwaTZ99yO/p/1eN1pVWMZKfW9aZfAF1yAtKsgQkWw1atL/edit)
+  - **Description**:This SQL Project I have designed World database. I have used to importing the script into MySQL and then executed different queries to analyse the tables inside the database and also created EER diagram using Reverse Engineer, we can find the relationships between the tables and also can identify Primary Key and Foreign Key.
+  - **Technologies Used**: My SQL,Workbench
+ 
 ### Python and Pandas
 - **Project Name**: [Project Title](link-to-project)
   - **Description**: Brief description of what the project does and its key features.
