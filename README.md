@@ -29,10 +29,9 @@ I hold a degree in Computer Science with a focus on data analytics.I am a good l
 
 ### PowerBI
 - **Project Name**: [Hollywood Most Profitable Stories](<iframe title="Hollywood Most Profitable Stories" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjRmYjYxOWEtMDJiYy00YmJmLThmZDMtZWI4MzQzMmFkZjY0IiwidCI6IjZlZmQwZjIwLTU3YzgtNDQ0Ny1iNTNmLTAwZDQ5OTJjYTUwYiJ9" frameborder="0" allowFullScreen="true"></iframe>)
-  - **Description**:
-  - **Technologies Used**: Power BI,I have used Hollywood List Most Profitable Stories Excel Dataset in the project.
+- **Description**:This is the Power BI dashboard project that visualizes data about Hollywood's most profitable stories. Power BI dashboard offers a comprehensive view of various aspects of Hollywood's profitable stories, from audience ratings and scores to financial success and production trends. It uses a mix of visualizations to present the data in an easily digestible format, making it easier to draw insights and understand patterns in the film industry. Bar chart shows the average Rotten Tomatoes ratings for different genres. It helps in understanding which genres generally receive higher ratings from critics, Line graph depicts the number of movies produced each year from 2007 to 2011. It helps in identifying trends in film production over time. This KPI displays the sum of audience scores across all films. It provides an aggregate measure of audience satisfaction. This table lists individual films along with their audience scores. It gives a detailed view of how each film was received by the audience. another bar chart shows the profitability score for each studio. It indicates which studios have been the most profitable. This stacked bar chart shows the worldwide gross for each genre, divided into increase and decrease in revenue. It highlights the financial success of different genres.
+ - **Technologies Used**: Power BI,Excel.
   
-
 ### Tableau
 - **Project Name**: [The Wealth of Nations](https://public.tableau.com/views/TheWealthofNations-GDP/CountrybyGDP-PerCapitaPPP?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   **Description**: Tableau is a powerful and versatile data visualization and business intelligence (BI) tool used to transform raw data into easily understandable visualizations, such as charts, graphs, and dashboards. It is widely used for data analysis, business intelligence, and reporting purposes.
@@ -71,10 +70,21 @@ The Health of Nations dashboard consists of multiple visualizations created in T
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the tools and concepts used in the project.
 
-### Excel Modelling
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the functions and techniques used in the project.
+### Excel Modelling 
+- **Project Name**: [Sales-South America 2022](https://sites.google.com/d/1hehV21rM9kjol14yK8s0kjDPwaTZ99yO/p/1Z0urpYyP5eC5zDA3TjM31eyMFT3M2iJN/edit)
+- **Description**: This Excel dashboard provides a detailed overview of McDonald's performance metrics in South America for 2022. It includes key performance indicators (KPIs), sales trends, customer satisfaction metrics, and regional sales distribution.
+Sales and Profit Performance: McDonald's achieved significant sales and profits in South America in 2022, with sales reaching $2,544 million and profits at $890 million. The number of customers at 87.0 million suggests a substantial customer base contributing to these figures.
+Yearly Sales Trend: The sales trend line graph shows monthly sales fluctuations, indicating seasonal variations or market-driven changes. The comparison between 2021 and 2022 can highlight growth or decline in sales performance over the two years.
+Customer Satisfaction: The radar chart provides insights into customer satisfaction in various service dimensions, with 'Speed' explicitly shown at 54%. This helps identify strengths and areas needing improvement in customer service.
+Regional Sales Distribution: The map visualization highlights sales distribution across different regions, identifying areas with higher sales volumes and potential growth regions.
+- **Technologies Used**: Excel
+  
+### Excel Modelling Project2 
+- **Project Name**: [The Health of Nations](https://sites.google.com/d/1hehV21rM9kjol14yK8s0kjDPwaTZ99yO/p/1Z0urpYyP5eC5zDA3TjM31eyMFT3M2iJN/edit)
+- **Description**: This is the Dashboard about the The Health of Nations. I have created GDP-Per Capita Charts and  visualizations. and also created Macros for saving, copying and printing, I have used several functions  and filters for this dashboard.
+
+Note: This is the password to open my Excel sheet: 1234
+- **Technologies Used**: Excel
 
 
 
